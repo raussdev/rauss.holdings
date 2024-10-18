@@ -71,7 +71,7 @@ function MyApp({ Component , pageProps  }) {
                     }),
                     /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("meta", {
                         name: "description",
-                        content: "Alkane Digital LLC is the software publishing group advancing the state of Bitcoin-compatible protocols"
+                        content: "Rauss Holdings is a research-oriented strategic group working to build better project ecosystems"
                     }),
                     /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("meta", {
                         name: "viewport",

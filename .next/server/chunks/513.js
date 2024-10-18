@@ -39,7 +39,7 @@ const About = ()=>{
                             }),
                             /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("p", {
                                 className: "desc",
-                                children: `We are a community of software engineers working to produce the next generation of blockchain software, supporting the Bitcoin protocol. We adhere to industry-grade code quality standards, and we aim to set a higher standard for open source software.`
+                                children: `We are a research group working to better the state of project ecosystems across all domains. Write us to learn about the current itineraries of review.`
                             })
                         ]
                     }),
@@ -125,13 +125,13 @@ const Contact = ()=>{
                         }),
                         /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("h3", {
                             children: [
-                                "ALKANE DIGITAL LLC",
+                                "RAUSS HOLDINGS LLC",
                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("br", {
                                 }),
                                 "1309 Coffeen Ave",
                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("br", {
                                 }),
-                                "STE 14695",
+                                "STE 1200",
                                 /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("br", {
                                 }),
                                 "Sheridan, WY 82801"
@@ -142,7 +142,7 @@ const Contact = ()=>{
                         }),
                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("h3", {
                             children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
-                                href: "tel:+1-307-387-3372",
+                                href: "tel:+1-307-302-0387",
                                 children: "+1-307-387-3374"
                             })
                         }),
@@ -158,8 +158,8 @@ const Contact = ()=>{
                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("p", {
                             children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
                                 className: "fn__link",
-                                href: "mailto:inquiries@alkane.digital",
-                                children: "inquiries@alkane.digital"
+                                href: "mailto:inquiries@rauss.holdings",
+                                children: "inquiries@rauss.holdings"
                             })
                         })
                     ]
@@ -1766,9 +1766,9 @@ const PanelContent = ()=>{
         const Typed = __webpack_require__(3603);
         new Typed(".animated_title", {
             strings: [
-                "Software Publishing",
-                "Blockchain",
-                "Web Development",
+                "Independent Research",
+                "Review",
+                "Strategic Consultation",
                 "Open-source"
             ],
             loop: true,
@@ -1807,7 +1807,7 @@ const PanelContent = ()=>{
                         className: "title_holder",
                         children: [
                             /*#__PURE__*/ jsx_runtime_.jsx("h5", {
-                                children: "ALKANE DIGITAL LLC"
+                                children: "RAUSS HOLDINGS LLC"
                             }),
                             /*#__PURE__*/ jsx_runtime_.jsx("p", {
                                 className: "h3",
@@ -2210,7 +2210,7 @@ const Layout = ({ children  })=>{
         children: [
             /*#__PURE__*/ jsx_runtime_.jsx((head_default()), {
                 children: /*#__PURE__*/ jsx_runtime_.jsx("title", {
-                    children: "ALKANE DIGITAL LLC - Homepage"
+                    children: "RAUSS HOLDINGS LLC - Homepage"
                 })
             }),
             /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
